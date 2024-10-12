@@ -55,7 +55,7 @@ Adjusting these thresholds helps you find the most relevant patterns in your dat
 ### How to Use
 
 1. **Prepare Your Dataset**: 
-   - Your dataset should be in CSV format, structured in a single column. Each row should represent a transaction with items separated by commas.
+   - Your dataset should be in CSV format. Each row should represent a transaction with items separated by commas.
    - Example format:
      ```
       spaghetti,antioxydant juice
